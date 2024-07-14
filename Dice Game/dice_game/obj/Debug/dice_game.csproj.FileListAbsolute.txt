@@ -1,0 +1,8 @@
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\bin\Debug\dice_game.exe.config
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\bin\Debug\dice_game.exe
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\bin\Debug\dice_game.pdb
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\obj\Debug\dice_game.csprojResolveAssemblyReference.cache
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\obj\Debug\dice_game.MainForm.resources
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\obj\Debug\dice_game.csproj.GenerateResource.Cache
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\obj\Debug\dice_game.exe
+C:\Users\mjhon\OneDrive\Documentos\SharpDevelop Projects\Dice Game\dice_game\obj\Debug\dice_game.pdb
